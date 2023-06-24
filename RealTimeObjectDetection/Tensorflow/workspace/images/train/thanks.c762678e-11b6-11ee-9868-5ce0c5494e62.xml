@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.c762678e-11b6-11ee-9868-5ce0c5494e62.jpg</filename>
+	<path>C:\Users\Shameem\Desktop\Mudassir Project\PDST2SLAN\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks.c762678e-11b6-11ee-9868-5ce0c5494e62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>272</ymin>
+			<xmax>499</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>
